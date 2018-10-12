@@ -1,5 +1,4 @@
 requests
-urllib
 gen3
 shutil
 globus_sdk
