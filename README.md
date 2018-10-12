@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mlev71/KC2_GUID_Interoperability_Demo/master?filepath=Notebook.ipynb)
+
 # KC2 GUID Interoperability Demo
 
 ### Date
